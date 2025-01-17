@@ -98,7 +98,7 @@ class MyUi(QMainWindow):
     def show_complete_message(self, message_text):
 
         msg = QMessageBox()
-        msg.setStyleSheet("background-color: rgb(255, 255, 0); color rgb(255, 200, 0)")
+        msg.setStyleSheet("background-color: rgb(210, 0, 255); color rgb(255, 200, 0)")
         msg.setIcon(QMessageBox.Information)
         msg.setWindowTitle(message_text)
         msg.setText("Have a Nice Day!")
