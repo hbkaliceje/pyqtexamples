@@ -35,7 +35,7 @@
      </font>
     </property>
     <property name="text">
-     <string>Basic UI with some controls responding to events</string>
+     <string>This is a more than basic UI!</string>
     </property>
    </widget>
    <widget class="QWidget" name="gridLayoutWidget">
@@ -157,7 +157,7 @@
      <x>0</x>
      <y>0</y>
      <width>780</width>
-     <height>21</height>
+     <height>24</height>
     </rect>
    </property>
    <widget class="QMenu" name="menu_File">
